@@ -24,9 +24,7 @@ Boscolo D., B.N. Rodrigues, P.A. Ferreira, L.E. Lopes, V.R. Tonetti, I.C.R. Sant
 Title: ATLANTIC FLOWER-INVERTEBRATE INTERACTIONS​: a dataset of occurrence and frequency of flower visitation interactions in the Atlantic forest.
 
 ### I.B. Data set identification code:
-(1) AtlanticForestInvertFloInteractionData_2019-11.csv, 19.5 MB
-(2) AtlanticForestInvertFloAuthorsInfo_2019-11.csv, 18.2 KB
-
+(1) AtlanticForestInvertFloInteractionData_2019-11.csv, 19.5 MB ; (2) AtlanticForestInvertFloAuthorsInfo_2019-11.csv, 18.2 KB
 
 
 ### C. Data set description:
