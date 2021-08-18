@@ -6,6 +6,16 @@ Atlantic forest biome. This paper follows previous published data papers in Ecol
 [ATLANTIC SMALL-MAMMAL](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1893/full): Bovendorp et al. 2017, 
 [ATLANTIC-CAMPTRAPS](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1998/abstract): Lima et al. 2017 and 
 [ATLANTIC BATS](http://onlinelibrary.wiley.com/doi/10.1002/ecy.2007/abstract): Muylaert et al. 2017).
+[ATLANTIC BIRDS](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2119): Hasui et al. 2017).
+[Non-volant mammals from the Upper Paraná River Basin](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2107): Gonçalves et al. 201.
+[ATLANTIC AMPHIBIANS](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2392): Vancine et al. 2018.
+[ATLANTIC MAMMAL TRAITS](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2106): Gonçalves et al. 2018.
+[ATLANTIC PRIMATES](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2525): Culot et al. 2018.
+[ATLANTIC BUTTERFLIES](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2507): Santos et al. 2018.
+[ATLANTIC MAMMALS](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2785): Souza et al. 2019.
+[ATLANTIC EPIPHYTES](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2541): Ramos et al. 2019.
+[ATLANTIC BIRD TRAITS](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2647): Rodrigues et al. 2019.)
+
 
 
 <img align="right" width="250"  src="ATS_FInvInt.jpg"> This dataset has  ~18 thousand interaction records forming 479 networks, each containing from 1 to 1,061 interaction links.  Each network was sampled for about 200 hours or less, with few exceptions. It was reported 650 plant genera within 138 different families and 40 orders with the most abundant and rich families being Asteraceae, Fabaceae and Rubiaceae. Animals interacting with these plants were all arthropods from 10 orders, 136 families and 601 genera, comprising 2,429 morphotypes (including 988 species). Hymenoptera was the most abundant and diverse order with at least 6 times more records than the second-ranked order (Lepidoptera). The complete dataset network shows Hymenoptera interacting with all plant orders, also depicting  Diptera, Lepidoptera, Coleoptera and Hemiptera as important nodes. Among plants, Asterales and Fabales had the highest amount of interactions. The best-sampled environment was forest (~8,000 records), followed by pastures and crops. Savanna, grasslands and urban environments (among others) were also reported, indicating a wide range of approaches dedicated to collecting flower-invertebrate data in the Atlantic Forest domain. Nevertheless, most reported data was from forest understory or lower strata, indicating a knowledge-gap about flower-invertebrate interactions at the canopy. Also, access to remote regions still is a limitation generating sampling gaps in the geographical range of the Atlantic Forest. Future studies in these remote and continuous forested areas shall bring important new information regarding the interactions between flowers and invertebrates  at the Atlantic Forest.
@@ -48,5 +58,6 @@ Environmental Sciences Department  – DCAm, Federal University of São Carlos, 
 
 (5)Milton Cezar Ribeiro
 Universidade Estadual Paulista (UNESP), Instituto de Biociências, Departamento de Ecologia, CP 199, Rio Claro, SP, 13506-900, Brazil.
+
 
 
